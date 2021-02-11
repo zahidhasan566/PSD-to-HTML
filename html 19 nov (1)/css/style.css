@@ -1,0 +1,52 @@
+#top-bar{
+	position: relative;
+	border-bottom: 1px solid #eee;
+	font-size: 13px;
+	background-color: #FFCD8C;
+}
+#logo{
+	/*width: 100%;
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	
+	max-height: 100%*/
+	padding-left:163px; 
+	padding-right:100px;
+
+}
+.container{
+	    width: 100%;
+	        padding-right: 15px;
+	        padding-left: 15px;
+	        margin-right: auto;
+	        margin-left: auto;
+}
+.header-row{
+	/*width: 1290px;
+	height: 100px;*/
+	padding-right: 100;
+	padding-left: 1290;
+}
+.menu-item
+{
+	padding-top: 39px;
+	padding-bottom: 39px;
+}
+.primary-menu{
+	padding-left:400.53px; 
+	padding-right:100px;
+
+}
+.slider2{
+	width: 100%;
+
+}
+
+.row-mid{
+	padding-right: 100;
+	padding-left: 1290;
+}
